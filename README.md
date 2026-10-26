@@ -6,7 +6,7 @@ I build things — websites, bots, robots and 3D-printed parts.
 - [Emo](https://github.com/vladiclick/emo-desk-robot) — a four-servo desk robot with an OLED face
 - [HX18](https://github.com/vladiclick/hx18-hexapod) — an 18-joint hexapod; CAD is done, next is choosing actuators and printing a test leg
 
-**Code** — Python · JavaScript / TypeScript · React · Electron · ESP32
+**Code** — Python · JavaScript / TypeScript · React · Electron · ESP32 · Rust
 
 **Making** — CAD in Fusion 360 · 3D printing on a Bambu Lab P1S · FPV drones
 

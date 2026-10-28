@@ -16,6 +16,7 @@ I build things — websites, bots, robots and 3D-printed parts.
 |---|---|
 | [hx18-hexapod](https://github.com/vladiclick/hx18-hexapod) | 18-joint hexapod with 18 ST3215 servos: CAD, print-ready STLs and collision-checked gait |
 | [project-obsidian](https://github.com/vladiclick/project-obsidian) | Runs a 30B mixture-of-experts LLM on a 16 GB Mac by streaming experts from the SSD — Rust and Metal |
+| [osbeat](https://github.com/vladiclick/osbeat) | Live terminal monitor for macOS: the Apple logo breathes with CPU, fills with RAM and shimmers with network traffic — Rust |
 | [emo-desk-robot](https://github.com/vladiclick/emo-desk-robot) | Desk robot: Fusion 360 model, STLs and electronics layout |
 | [sotto](https://github.com/vladiclick/sotto) | On-device dictation for macOS: hold a key, speak, it types — Whisper on the Mac's GPU |
 | [fake-out](https://github.com/vladiclick/fake-out) | Pass-the-phone party game: everyone gets the word except the imposters |

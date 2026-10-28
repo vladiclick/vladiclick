@@ -4,7 +4,7 @@ I build things — websites, bots, robots and 3D-printed parts.
 
 - [GreenArm](https://github.com/vladiclick/greenarm-robot-arm) — a desktop robot arm with 3D-printable cycloidal gearboxes
 - [Emo](https://github.com/vladiclick/emo-desk-robot) — a four-servo desk robot with an OLED face
-- [HX18](https://github.com/vladiclick/hx18-hexapod) — an 18-joint hexapod; CAD is done, next is choosing actuators and printing a test leg
+- [HX18](https://github.com/vladiclick/hx18-hexapod) — an 18-joint hexapod built around Waveshare ST3215 bus servos; CAD is done, next is printing a test leg
 
 **Code** — Python · JavaScript / TypeScript · React · Electron · ESP32 · Rust
 
@@ -18,7 +18,7 @@ I build things — websites, bots, robots and 3D-printed parts.
 | [project-obsidian](https://github.com/vladiclick/project-obsidian) | Runs a 30B mixture-of-experts LLM on a 16 GB Mac by streaming experts from the SSD — Rust and Metal |
 | [fake-out](https://github.com/vladiclick/fake-out) | Pass-the-phone party game: everyone gets the word except the imposters |
 | [makerworld-resale-tracker](https://github.com/vladiclick/makerworld-resale-tracker) | Finds 3D-printable models that are legal to sell and scores them for resale |
-| [hx18-hexapod](https://github.com/vladiclick/hx18-hexapod) | 18-joint hexapod: Fusion 360 model and print-ready STLs, plus an earlier version with ESP32 firmware |
+| [hx18-hexapod](https://github.com/vladiclick/hx18-hexapod) | 18-joint hexapod with 18 ST3215 servos: CAD, print-ready STLs and collision-checked gait |
 | [emo-desk-robot](https://github.com/vladiclick/emo-desk-robot) | Desk robot: Fusion 360 model, STLs and electronics layout |
 
 [vladi.click](https://vladi.click)
